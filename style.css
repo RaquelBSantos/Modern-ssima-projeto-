@@ -1,0 +1,32 @@
+.titulo{
+    text-align: center;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(143, 54, 54, 0.24);
+}
+body{
+    background-color: aqua;
+}
+
+.btn-outline-success {
+    --bs-btn-color: rgba(143, 54, 54, 0.527) !important;
+    --bs-btn-border-color: rgba(143, 54, 54, 0.678) !important;
+    --bs-btn-hover-bg: rgba(143, 54, 54, 0.678) !important;
+}
+
+
+.bgMenu{
+    margin-top: -8px;
+    background-color: rgba(143, 54, 54, 0.527) !important;
+}
+
+.titulo1{
+    text-align: center;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 30px;
+}
+
+.w-30{
+    margin: auto ;
+}
